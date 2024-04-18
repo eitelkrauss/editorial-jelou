@@ -1,4 +1,4 @@
-# Prueba frontend para Jelou en React con TailwindCSS
+# Prueba frontend para Jelou con React.js y TailwindCSS
 
 desarrollo: `npm run dev`
 
