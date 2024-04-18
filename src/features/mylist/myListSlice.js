@@ -7,7 +7,6 @@ export const myListSlice = createSlice({
   },
   reducers: {
     addItem: (state, action) => {
-      console.log("ADDITEM: ", action)
       state.value[action.payload.ISBN] = action.payload
     },
     removeItem: (state, action) => {
